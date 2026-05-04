@@ -1,16 +1,28 @@
-## Hi there 👋
+Full-Stack Software Engineer specializing in building scalable web applications.
 
-<!--
-**Mohamedshazly860/mohamedshazly860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Sc. in Computer & Informatics, Zagazig University (July 2024)
+- Intensive Training Program @ Information Technology Institute (ITI) – Full-Stack Web Development with Python (Jul 2025 – Dec 2025)
 
-Here are some ideas to get you started:
+## Tech Stack
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) React
+- Tailwind CSS
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) Django
+- Node.js
+
+**Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) PostgreSQL
+- MySQL
+
+**Other**
+- Docker & Docker Compose
+- Git & GitHub
+
+## Languages
+- Python
+- JavaScript
+- TypeScript
